@@ -5,10 +5,13 @@ Vue.use(Vuex);
 
 export default new Vuex.Store({
   state: {
-
+    name: '',
+    phone: '',
+    emai: '',
+    message: ''
   },
   mutations: {
-
+    
   },
   actions: {
 
